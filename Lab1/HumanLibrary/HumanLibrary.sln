@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanClassLib", "HumanClassLib\HumanClassLib.csproj", "{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHumanApp", "TestHumanApp\TestHumanApp.csproj", "{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanTests", "HumanTests\HumanTests.csproj", "{19A0A248-DC95-46A9-9051-93A292BD7544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A0A248-DC95-46A9-9051-93A292BD7544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A0A248-DC95-46A9-9051-93A292BD7544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A0A248-DC95-46A9-9051-93A292BD7544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A0A248-DC95-46A9-9051-93A292BD7544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

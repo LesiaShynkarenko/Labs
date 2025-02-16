@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HumanClassLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be37e93323217892dfe115aa42e2d6e3466dd976")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de23b535a3bb4e6057a125ef303cbb99fd83ba80")]
 [assembly: System.Reflection.AssemblyProductAttribute("HumanClassLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HumanClassLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

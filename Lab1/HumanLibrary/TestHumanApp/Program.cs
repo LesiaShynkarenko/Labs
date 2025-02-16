@@ -18,5 +18,7 @@ class Program
         Console.WriteLine(student);
         Console.WriteLine("==== Працівник ====");
         Console.WriteLine(worker);
+        Console.ReadLine();
+
     }
 }
