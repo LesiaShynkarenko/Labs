@@ -9,3 +9,4 @@ D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net7.0\HumanClassLib.dll
 D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net7.0\refint\HumanClassLib.dll
 D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net7.0\HumanClassLib.pdb
 D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net7.0\ref\HumanClassLib.dll
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net7.0\HumanClassLib.sourcelink.json

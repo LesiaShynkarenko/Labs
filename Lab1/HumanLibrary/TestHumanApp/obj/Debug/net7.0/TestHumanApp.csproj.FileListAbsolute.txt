@@ -16,3 +16,4 @@ D:\Labs\Lab1\HumanLibrary\TestHumanApp\obj\Debug\net7.0\refint\TestHumanApp.dll
 D:\Labs\Lab1\HumanLibrary\TestHumanApp\obj\Debug\net7.0\TestHumanApp.pdb
 D:\Labs\Lab1\HumanLibrary\TestHumanApp\obj\Debug\net7.0\TestHumanApp.genruntimeconfig.cache
 D:\Labs\Lab1\HumanLibrary\TestHumanApp\obj\Debug\net7.0\ref\TestHumanApp.dll
+D:\Labs\Lab1\HumanLibrary\TestHumanApp\obj\Debug\net7.0\TestHumanApp.sourcelink.json

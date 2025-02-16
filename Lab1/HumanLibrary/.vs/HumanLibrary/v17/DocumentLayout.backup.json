@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Labs\\Lab1\\HumanLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|d:\\labs\\lab1\\humanlibrary\\humanclasslib\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|solutionrelative:humanclasslib\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}|TestHumanApp\\TestHumanApp.csproj|d:\\labs\\lab1\\humanlibrary\\testhumanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}|TestHumanApp\\TestHumanApp.csproj|solutionrelative:testhumanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|d:\\labs\\lab1\\humanlibrary\\humanclasslib\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|solutionrelative:humanclasslib\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|d:\\labs\\lab1\\humanlibrary\\humanclasslib\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|solutionrelative:humanclasslib\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|d:\\labs\\lab1\\humanlibrary\\humanclasslib\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|solutionrelative:humanclasslib\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\Worker.cs",
+              "RelativeDocumentMoniker": "HumanClassLib\\Worker.cs",
+              "ToolTip": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\Worker.cs",
+              "RelativeToolTip": "HumanClassLib\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:09:25.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\Student.cs",
+              "RelativeDocumentMoniker": "HumanClassLib\\Student.cs",
+              "ToolTip": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\Student.cs",
+              "RelativeToolTip": "HumanClassLib\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:07:58.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\TestHumanApp\\Program.cs",
               "RelativeDocumentMoniker": "TestHumanApp\\Program.cs",
               "ToolTip": "D:\\Labs\\Lab1\\HumanLibrary\\TestHumanApp\\Program.cs",
               "RelativeToolTip": "TestHumanApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T19:34:27.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Human.cs",
               "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\Human.cs",
               "RelativeDocumentMoniker": "HumanClassLib\\Human.cs",
               "ToolTip": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\Human.cs",
               "RelativeToolTip": "HumanClassLib\\Human.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAA7wAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T19:29:12.914Z",
               "EditorCaption": ""
