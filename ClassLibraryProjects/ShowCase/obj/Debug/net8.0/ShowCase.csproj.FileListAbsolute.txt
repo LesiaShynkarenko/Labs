@@ -1,0 +1,6 @@
+D:\Labs\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfoInputs.cache
+D:\Labs\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfo.cs
+D:\Labs\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.CoreCompileInputs.cache
+D:\Labs\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.sourcelink.json
+D:\Labs\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.AssemblyReference.cache

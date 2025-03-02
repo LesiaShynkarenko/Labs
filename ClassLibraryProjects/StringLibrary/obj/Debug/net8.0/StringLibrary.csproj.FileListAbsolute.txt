@@ -1,0 +1,12 @@
+D:\Labs\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+D:\Labs\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+D:\Labs\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+D:\Labs\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll

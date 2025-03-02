@@ -1,0 +1,12 @@
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\bin\Debug\net8.0\HumanClassLib.deps.json
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\bin\Debug\net8.0\HumanClassLib.dll
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\bin\Debug\net8.0\HumanClassLib.pdb
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.AssemblyInfoInputs.cache
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.AssemblyInfo.cs
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.csproj.CoreCompileInputs.cache
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.sourcelink.json
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.dll
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\refint\HumanClassLib.dll
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\HumanClassLib.pdb
+D:\Labs\Lab1\HumanLibrary\HumanClassLib\obj\Debug\net8.0\ref\HumanClassLib.dll

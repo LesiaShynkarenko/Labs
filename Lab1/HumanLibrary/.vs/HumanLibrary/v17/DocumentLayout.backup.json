@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{19A0A248-DC95-46A9-9051-93A292BD7544}|HumanTests\\HumanTests.csproj|solutionrelative:humantests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A0A248-DC95-46A9-9051-93A292BD7544}|HumanTests\\HumanTests.csproj|d:\\labs\\lab1\\humanlibrary\\humantests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A0A248-DC95-46A9-9051-93A292BD7544}|HumanTests\\HumanTests.csproj|solutionrelative:humantests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}|TestHumanApp\\TestHumanApp.csproj|d:\\labs\\lab1\\humanlibrary\\testhumanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC3C966-BD01-4BA3-80BE-AF4F00CD46B8}|TestHumanApp\\TestHumanApp.csproj|solutionrelative:testhumanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|d:\\labs\\lab1\\humanlibrary\\humanclasslib\\humanclasslib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|solutionrelative:humanclasslib\\humanclasslib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C92EF11C-7691-4667-9BE2-F162B9AEB0FB}|HumanClassLib\\HumanClassLib.csproj|d:\\labs\\lab1\\humanlibrary\\humanclasslib\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HumanClassLib",
+              "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\HumanClassLib.csproj",
+              "RelativeDocumentMoniker": "HumanClassLib\\HumanClassLib.csproj",
+              "ToolTip": "D:\\Labs\\Lab1\\HumanLibrary\\HumanClassLib\\HumanClassLib.csproj",
+              "RelativeToolTip": "HumanClassLib\\HumanClassLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T21:12:10.885Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,27 +67,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T21:52:33.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\HumanTests\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "HumanTests\\MSTestSettings.cs",
-              "ToolTip": "D:\\Labs\\Lab1\\HumanLibrary\\HumanTests\\MSTestSettings.cs",
-              "RelativeToolTip": "HumanTests\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T21:52:07.452Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Labs\\Lab1\\HumanLibrary\\TestHumanApp\\Program.cs",
               "RelativeDocumentMoniker": "TestHumanApp\\Program.cs",

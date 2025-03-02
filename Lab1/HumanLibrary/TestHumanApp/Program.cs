@@ -8,7 +8,7 @@ class Program
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
         Human person = new Human("Іван", 30, "Чоловік", 1.8, 75, "Українець", "Християнство", "Програміст", "AB123456");
-        Student student = new Student("Марія", 20, "Жінка", 1.65, 55, "Українка", "Католицизм", "Студент", "CD789012", "S12345", "КН-22");
+        Student student = new Student("Марія", 20, "Жінка", 1.65, 55, "Українка", "Будизм", "Студент", "CD789012", "S12345", "КН-22");
         Worker worker = new Worker("Петро", 40, "Чоловік", 1.75, 85, "Українець", "Атеїст", "Інженер", "EF345678", "IT", "DevOps");
 
         Console.WriteLine("==== Людина ====");
